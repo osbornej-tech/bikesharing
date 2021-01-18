@@ -6,6 +6,8 @@ In this assignment, we converted the trip duration using Python to a datetime Fo
 Please see link for visualizations of NYC Citibike analysis
 (https://public.tableau.com/profile/jodi.ann.osborne#!/vizhome/NYCitibike_16109924046700/Story1?publish=yes)
 
+If users are having trouble accessing the site, please see this pdf file for visualization (https://github.com/osbornej-tech/bikesharing/blob/main/NY%20Citibike.pdf)
+
 There are several visualizations provided in this analysis. These analyses are useful to both users, Citibike and potential competitors as more biking usage increase. For Citibike, these vizzes ccan provide insight into the demographics of the users, their usage, and times that would be best suited for maintenance.
 
 The checkout times by User and the checkout times gender and duration by hour of day visualization demonstrate that most users utilize the services between 4am and 6am.  
